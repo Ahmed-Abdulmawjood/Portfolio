@@ -2,7 +2,6 @@ import React from "react";
 import Tilt from "react-parallax-tilt";
 import { Styles } from "../Utils/Style";
 import { technologies, services } from "../Constants";
-import { motion } from "framer-motion";
 import "./style.css";
 
 function OverVeiw() {
